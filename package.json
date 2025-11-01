@@ -1,5 +1,5 @@
 {
-  "name": "@drayyy/XD-Baileys",
+  "name": "@Isreal-Dev-Tech/MASKY-Baileys",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Drayyyxd/@drayyy/XD-Baileys",
+  "homepage": "https://github.com/Isreal-Dev-Tech/MASKY-Baileys",
   "repository": {
-    "url": "git@github.com:Drayyyxd/@drayyy/XD-Baileys.git"
+    "url": "git@github.com:Isreal-Dev-Tech/MASKY-Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Isreal Dev Tech",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
